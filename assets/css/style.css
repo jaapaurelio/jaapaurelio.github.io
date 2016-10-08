@@ -68,6 +68,6 @@ h1 {
   margin-bottom: 10px;
 }
 
-ul li {
-  display: inline-block;
+.job {
+	margin-bottom: 10px; 
 }
